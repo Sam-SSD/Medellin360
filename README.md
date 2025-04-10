@@ -367,12 +367,6 @@ Formulario Visual] → [Campos: Nombre, Categoría, etc.] → [Botón "Registrar
 
 ---
 
-# Casos de Prueba Funcionales - Registro de comercio
-
-Este documento presenta tres casos de prueba funcionales diseñados para validar el correcto funcionamiento del algoritmo de registro de datos de un colaborador de comercio.
-
----
-
 # 🧪 Casos de Prueba Funcionales – Registro de Comercio
 
 Este documento presenta **tres casos de prueba funcionales** diseñados para validar el correcto funcionamiento del algoritmo de **registro de datos de un colaborador de comercio**.
