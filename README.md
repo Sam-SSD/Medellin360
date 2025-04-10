@@ -351,7 +351,7 @@ Módulo de Registro de Comercios
 
 Este módulo puede integrarse con otros componentes del sistema para hacerlo más robusto y funcional
 
-###**Base de Datos**
+**Base de Datos**
 
 ```plaintext
 📌 **Función:** Almacenar de forma permanente los datos ingresados por el usuario.  
