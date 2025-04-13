@@ -197,6 +197,32 @@ Un **calendario actualizado** con eventos, talleres, pop-ups y experiencias temp
 
 ---
 
+---
+
+# 🖌️ Referencias de Diseño
+
+Estas imágenes reflejan el enfoque visual y estructural que guiará la experiencia del usuario en **Medellín 360**, desde su estética hasta el flujo lógico de navegación.
+
+> 🎨 *La app se inspira en un diseño limpio, moderno y visualmente cautivador, priorizando la experiencia intuitiva del usuario y una navegación fluida.*
+
+### 📱 Mockup de la App Medellín 360  
+Visualización conceptual de la interfaz de la aplicación en su versión móvil.
+
+![Image](https://github.com/user-attachments/assets/94196a50-9dae-4e35-badb-772d4ccc4bec)
+
+---
+
+### 🔄 Diagrama de Flujo Funcional  
+Representación del flujo de navegación y lógica detrás de las principales funcionalidades del sistema.
+
+![file_00000000ced061f68b996957a64dce60_conversation_id=67f7c1ad-81f8-800c-940f-a877aa33e846&message_id=68416f14-ecc7-4536-8102-b299bfc39f31.png](https://github.com/user-attachments/assets/021c1044-dd5a-4efa-a50b-e5b95e320d93)
+
+---
+
+> 🌟 *Diseño pensado para inspirar y facilitar el descubrimiento de lugares únicos en Medellín.*
+
+---
+
 # ✨ Implementación de Registro de Colaboradores  
 _Feature Clave en el Algoritmo Medellín 360_
 
